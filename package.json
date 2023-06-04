@@ -1,7 +1,6 @@
 {
-  "name": "algorithms-and-data-structures",
+  "name": "data-structures-and-algorithms",
   "version": "1.0.0",
-  "description": "Repository to re-visit and practice algorithms and data structures",
   "scripts": {
     "node": "node --require ts-node/register",
     "test": "glob -c \"node --require ts-node/register --test\" \"./src/**/*.spec.ts\""
